@@ -26,3 +26,8 @@ See [this link](https://medium.com/@margaretmz/anaconda-jupyter-notebook-tensorf
 
 Good Luck!!!
 
+References:
+* Zou, J., Huss, M., Abid, A., Mohammadi, P., Torkamani, A., & Telenti, A. (2018). A primer on deep learning in genomics. Nature genetics
+
+
+
