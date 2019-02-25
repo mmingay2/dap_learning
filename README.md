@@ -17,10 +17,12 @@ Make sure you have bedtools installed in your path.
 
 See the Jupyter Notebook for example analysis.
 
-If you don't already have it installed you will need to install tensorflow:
+If you don't already have it installed you will need to install tensorflow first and then keras:
 
 `pip install --upgrade tensorflow`
+`pip install keras`
 
+See [this link](https://medium.com/@margaretmz/anaconda-jupyter-notebook-tensorflow-and-keras-b91f381405f8) for more information on installing these libraries.
 
-
+Good Luck!!!
 
