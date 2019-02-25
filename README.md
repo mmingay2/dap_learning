@@ -1,5 +1,4 @@
-# dap_learning
-Deep learning motif discovery using [DAP-seq data](http://neomorph.salk.edu/dap_web/pages/browse_table_aj.php)
+# Deep learning motif discovery using [DAP-seq data](http://neomorph.salk.edu/dap_web/pages/browse_table_aj.php)
 
 The shell script in here will take a narrowPeak file and it's associated genome and extract 50bp of sequence flanking the summit of each of the top `-n` peaks.
 
